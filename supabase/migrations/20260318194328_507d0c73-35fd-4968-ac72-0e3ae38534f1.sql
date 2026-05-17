@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX unique_schedule_session_date ON public.lecture_sessions (schedule_id, session_date) WHERE schedule_id IS NOT NULL;

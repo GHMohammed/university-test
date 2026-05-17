@@ -1,0 +1,1 @@
+ALTER TABLE public.lecture_sessions ADD COLUMN gps_enabled boolean NOT NULL DEFAULT true;

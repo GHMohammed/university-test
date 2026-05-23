@@ -339,7 +339,6 @@ npm run test:watch
 
 <div align="center">
 
-صُنع بـ ❤️ لخدمة التعليم العالي  
-_Built with ❤️ for higher education_
+_Built with ❤️ by Mohammad Nour Aldeen_
 
 </div>
